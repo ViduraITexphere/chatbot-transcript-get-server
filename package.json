@@ -1,0 +1,24 @@
+{
+  "name": "google-analitics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-analytics/data": "^4.5.0",
+    "cors": "^2.8.5",
+    "country-flag-icons": "^1.5.11",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "google-auth-library": "^9.9.0",
+    "googleapis": "^137.1.0",
+    "mongoose": "^8.4.0",
+    "request": "^2.88.2",
+    "socket.io": "^4.7.5"
+  }
+}
